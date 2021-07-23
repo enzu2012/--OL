@@ -4,11 +4,12 @@
 0621（提测问题分析）：
 https://docs.qq.com/sheet/DV2VGd0hSa3NjclNj?tab=BB08J2
 
-改追问回复话术逻辑，搜索逻辑（高玲枝）0702版：
-https://docs.qq.com/sheet/DZm1NT3ljcmJUUHdy?tab=BB08J2
 
 
 修改追问逻辑需求0705：
 https://app.mockplus.cn/run/prototype/Q4U4Eyvmapyvr/6COABvgINeiB/S758ZmzPtH37g?ha=1&ps=1
+
+新版需求（追问逻辑修改，品类分类修改）0708
+https://app.mockplus.cn/run/prototype/Q4U4Eyvmapyvr/ng9lRzb-_0?ha=1&ps=1
 
 
